@@ -1,0 +1,1 @@
+GRANT ALL PRIVILEGES ON `vote`.* TO php_user;
